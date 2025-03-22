@@ -16,7 +16,6 @@ django-tailwind==3.8.0
 docutils==0.21.2
 et_xmlfile==2.0.0
 fake-useragent==2.1.0
-gunicorn==23.0.0
 h11==0.14.0
 idna==3.10
 imagesize==1.4.1
